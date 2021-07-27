@@ -350,11 +350,11 @@
   "answer_is_required_da652c05": {
     "message": "Answer is required"
   },
-  "any_1cca45c8": {
-    "message": "Any"
-  },
   "any_constant_or_expression_to_evaluate_ba2017b1": {
     "message": "Any constant or expression to evaluate."
+  },
+  "any_or_expression_acad7d37": {
+    "message": "Any or expression"
   },
   "application_language_settings_85b1f06": {
     "message": "Application language settings"
@@ -400,6 +400,9 @@
   },
   "array_constant_8829b2ec": {
     "message": "Array constant."
+  },
+  "array_or_expression_c52b2ecc": {
+    "message": "Array or expression"
   },
   "array_or_expression_to_evaluate_87d9328b": {
     "message": "Array or expression to evaluate."
@@ -563,6 +566,9 @@
   "boolean_6000988a": {
     "message": "Boolean"
   },
+  "boolean_condition_b65450ca": {
+    "message": "Boolean condition"
+  },
   "boolean_constant_7d3fcbf6": {
     "message": "Boolean constant"
   },
@@ -574,6 +580,12 @@
   },
   "boolean_field_602934c9": {
     "message": "boolean field"
+  },
+  "boolean_or_expression_6bd88208": {
+    "message": "Boolean or expression"
+  },
+  "boolean_value_98d39ea1": {
+    "message": "Boolean value."
   },
   "bot_416bf08d": {
     "message": "bot"
@@ -1628,6 +1640,9 @@
   "expression_starting_with_a750efc8": {
     "message": "Expression starting with =."
   },
+  "expression_to_evaluate_ce4095b1": {
+    "message": "Expression to evaluate."
+  },
   "extend_your_bot_with_reusable_dialogs_bot_response_64f9ca51": {
     "message": "Extend your bot with reusable dialogs, bot response templates and custom actions."
   },
@@ -1669,9 +1684,6 @@
   },
   "fields_must_be_either_all_strings_or_all_fieldset__d3df28c": {
     "message": "fields must be either all strings or all fieldset objects"
-  },
-  "file_name_8fd421ff": {
-    "message": "File name"
   },
   "file_not_found_9eec054c": {
     "message": "File not found"
@@ -1904,9 +1916,6 @@
   "iconname_file_icon_29976c8e": {
     "message": "{ iconName } file icon"
   },
-  "id_already_exists_please_enter_a_unique_file_name_174913a3": {
-    "message": "{ id } already exists. Please enter a unique file name."
-  },
   "if_azure_resources_and_subscription_are_managed_by_e36717f6": {
     "message": "If Azure resources and subscription are managed by others, use the following information to request creation of the resources that you need to build and run your bot."
   },
@@ -2050,6 +2059,9 @@
   },
   "integer_constant_or_expression_to_evaluate_ec4a17da": {
     "message": "Integer constant or expression to evaluate."
+  },
+  "integer_or_expression_107f60fb": {
+    "message": "Integer or expression"
   },
   "integrating_with_power_virtual_agents_14c007cf": {
     "message": "Integrating with Power Virtual Agents"
@@ -2222,6 +2234,9 @@
   "line_startline_startcharacter_line_endline_endchar_372bb2f4": {
     "message": "line { startLine }:{ startCharacter } - line { endLine }:{ endCharacter }"
   },
+  "link_create_a_new_bot_to_get_started_link_f7108e63": {
+    "message": "<Link>Create a new bot to get started</Link>"
+  },
   "link_to_this_skill_has_been_broken_343072bd": {
     "message": "Link to this skill has been broken"
   },
@@ -2366,9 +2381,6 @@
   "manifest_url_can_not_be_accessed_ba43fc31": {
     "message": "Manifest URL can not be accessed"
   },
-  "manifest_version_1edc004a": {
-    "message": "Manifest Version"
-  },
   "mb_8f9f9e84": {
     "message": "MB"
   },
@@ -2494,9 +2506,6 @@
   },
   "name_1aed4a1b": {
     "message": "Name"
-  },
-  "name_and_save_your_skill_manifest_cfd672b7": {
-    "message": "Name and save your skill manifest."
   },
   "name_cannot_be_found_at_the_location_27560dcb": {
     "message": "{ name } cannot be found at the location."
@@ -2654,6 +2663,9 @@
   "number_constant_or_expression_to_evaluate_1098771": {
     "message": "Number constant or expression to evaluate."
   },
+  "number_or_expression_55c7f9f": {
+    "message": "Number or expression"
+  },
   "oauth_activities_are_not_available_for_testing_in__2207dcef": {
     "message": "OAuth activities are not available for testing in Composer yet. Please continue using Bot Framework Emulator for testing OAuth actions."
   },
@@ -2668,6 +2680,9 @@
   },
   "object_constant_77052b91": {
     "message": "Object constant."
+  },
+  "object_or_expression_89903fa1": {
+    "message": "Object or expression"
   },
   "object_or_expression_to_evaluate_699c8827": {
     "message": "Object or expression to evaluate."
@@ -2716,9 +2731,6 @@
   },
   "open_teams_416aae5c": {
     "message": "Open Teams"
-  },
-  "open_the_product_tour_to_learn_about_bot_framework_4e6e7227": {
-    "message": "Open the product tour to learn about Bot Framework Composer or <Link>create a new bot</Link>"
   },
   "open_web_chat_23601990": {
     "message": "Open Web Chat"
@@ -3263,14 +3275,8 @@
   "sample_phrases_are_phrases_a966b47f": {
     "message": "Sample Phrases are { phrases }"
   },
-  "save_11a80ec3": {
-    "message": "Save"
-  },
   "save_app_id_f64b6102": {
     "message": "Save App ID"
-  },
-  "save_your_skill_manifest_63bf5f26": {
-    "message": "Save your skill manifest"
   },
   "schema_24739a48": {
     "message": "Schema"
@@ -3694,6 +3700,9 @@
   },
   "string_field_db491570": {
     "message": "string field"
+  },
+  "string_or_expression_c441b45c": {
+    "message": "String or expression"
   },
   "submit_a3cc6859": {
     "message": "Submit"
@@ -4273,9 +4282,6 @@
   },
   "version_5599c321": {
     "message": "Version"
-  },
-  "version_version_a051e218": {
-    "message": "Version { version }"
   },
   "video_card_cda18e03": {
     "message": "Video card"
